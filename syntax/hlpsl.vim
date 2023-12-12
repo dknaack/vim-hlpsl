@@ -1,4 +1,5 @@
-syn keyword hlpslKeyword end role composition goal played_by local init transition const def
+syn keyword hlpslKeyword end role composition goal played_by local init 
+			\ transition const def secrecy_of authentication_on
 syn keyword hlpslType agent public_key channel nat text protocol_id
 syn match hlpslComment /%.*/
 
