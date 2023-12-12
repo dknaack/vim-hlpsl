@@ -4,3 +4,4 @@ syn match hlpslComment /%.*/
 
 hi def link hlpslKeyword Keyword
 hi def link hlpslComment Comment
+hi def link hlpslType Type
